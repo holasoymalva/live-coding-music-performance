@@ -1,5 +1,3 @@
-# Welcome to Sonic Pi
-
 in_thread do
   use_synth :fm
   sleep 2
