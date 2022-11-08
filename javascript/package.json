@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "tone": "^14.7.77"
+  },
+  "name": "javascript",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "app": "node app.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": ""
+}
